@@ -1,0 +1,7 @@
+numpy
+pandas
+pandas_datareader
+statsmodels
+patsy
+matplotlib
+openpyxl
